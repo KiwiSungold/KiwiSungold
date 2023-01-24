@@ -25,7 +25,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/rmartinezc92/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rmartinezc92/)
 
 ## Proyectos Creados:
 ![https://github.com/KiwiSungold/recolifter](./richard_recolifter.png)
